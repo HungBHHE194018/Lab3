@@ -1,0 +1,39 @@
+:root {
+  font-family: Arial, sans-serif;
+  color: #333333;
+  background-color: #ffffff;
+}
+
+body {
+  margin: 0;
+  padding: 20px;
+  background-color: #ffffff;
+  color: #333333;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button {
+  cursor: pointer;
+  padding: 4px 10px;
+  border: 1px solid #ccc;
+  background-color: #f8f9fa;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #e2e6ea;
+}
+
+input, select {
+  padding: 4px 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
